@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-    <img src=".github/capa.png" width="500px" />
+    <img src=".github/capa.png" />
 </p>
 <br>
 <br>
