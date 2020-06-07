@@ -1,11 +1,13 @@
 <p>
     Este presente projeto open-source, que foi desenvolvido durante a semana Next Level Week, da Rocketseat, utilizando as tecnologias TypeScript, Node, React e React Native, tem como objetivo conectar estabelecimentos que coletam resíduos orgânicos e inorgânicos às pessoas e/ou empresas/entidades que precisam descartar esses tipos de resíduos. É uma solução referente ao descarte inadequado do lixo, facilitando o processo de recliclagem e reutilização.
 </p>
-
+<br>
+<br>
 <p align="center">
     <img src=".github/capa.png" width="500px" />
 </p>
-
+<br>
+<br>
 ## **Tecnologias Utilizadas**
 
 
