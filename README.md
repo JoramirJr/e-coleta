@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas:**
 
 
 ## **WEB** (React + TypeScript)
